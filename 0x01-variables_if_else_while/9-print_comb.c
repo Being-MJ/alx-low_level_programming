@@ -3,7 +3,7 @@
 /**
  * main - prints all possible combinations of
  * single digit numbers
- * Returns: 0 (if successful)
+ * Return: 0 (if successful)
  */
 int main(void)
 {
