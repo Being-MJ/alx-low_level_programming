@@ -3,10 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - assigns a random number to int n each time it is executed and prints it
+ * main - assigns a random number to int n each time 
+ * it is executed and prints it
  * Return: (0) if successful 
- * */
-int main (void)
+ */
+int main(void)
 {
 	int n;
 
