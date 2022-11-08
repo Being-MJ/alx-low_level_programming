@@ -8,7 +8,6 @@
  * @c: character
  * Return: a pointer to the array, or NULL if unsuccessful
  */
-
 char *create_array(unsigned int size, char c)
 {
 	char *array = NULL;
